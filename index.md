@@ -6,7 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Hello! My name is Byeong-Ho Bahn. I am a Ph.D candidate in mathematics at University of Massachusetts Amherst (UMass Amherst). I am studying partial differential equations (PDEs) and Machine Learning. 
+  Hello! My name is Byeong-Ho Bahn. I am a Ph.D candidate in mathematics at University of Massachusetts Amherst (UMass Amherst).
+</p>
+
+<p>
+   I am studying mathematical analysis of partial differential equations (PDEs) and Machine Learning. 
 </p>
 
 <p>
