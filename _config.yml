@@ -21,7 +21,7 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: bban@umass.edu
     - type: wechat
       value: YourWeChatUsername
       link: "#"
