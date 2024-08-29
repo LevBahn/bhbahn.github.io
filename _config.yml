@@ -13,8 +13,8 @@ header:
   pages:
     - name: Byeong-Ho Bahn
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Publications
+    - name: Notes
 
 footer:
   show_powered_by: true
