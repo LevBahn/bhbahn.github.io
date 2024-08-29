@@ -1,4 +1,4 @@
-o---
+---
 layout: home
 profile_picture:
   src: /assets/img/main.jpeg
