@@ -1,4 +1,4 @@
----
+o---
 layout: home
 profile_picture:
   src: /assets/img/profile-pic.jpg
@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hello! My name is Byeong-Ho Bahn. I am a Ph.D candidate in mathematics at University of Massachusetts Amherst (UMass Amherst). I am studying partial differential equations (PDEs) and Machine Learning. 
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  You can find my codes from <a href="https://github.com/levbahn">GitHub</a>.
 </p>
