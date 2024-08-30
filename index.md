@@ -10,6 +10,14 @@ profile_picture:
 </p>
 
 <p>
+  Ph.D in Mathematics, expected 2025
+</p>
+
+<p>
+  M.S in Computer Science, expected 2025
+</p>
+
+<p>
    I am studying mathematical analysis of partial differential equations (PDEs) and Machine Learning. 
 </p>
 
