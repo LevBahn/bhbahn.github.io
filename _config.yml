@@ -13,8 +13,8 @@ header:
   pages:
     - name: Introduction
       slug: /
-    - name: Publications
-    - name: Notes
+    - name: work
+    - name: blog
 
 footer:
   show_powered_by: true
