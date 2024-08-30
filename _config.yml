@@ -22,9 +22,9 @@ footer:
     - type: email
       name: Email
       value: bban@umass.edu
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+    - type: Google Scholar
+      value: Google Scholar
+      link: "https://scholar.google.com/citations?user=2p8u25UAAAAJ&hl=en"
   follow:
     - type: twitter
       name: Twitter
