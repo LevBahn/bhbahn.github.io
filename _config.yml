@@ -22,29 +22,16 @@ footer:
     - type: email
       name: Email
       value: bban@umass.edu
-    - type: gs
+    - type: goos
       value: Google Scholar
       link: "https://scholar.google.com/citations?user=2p8u25UAAAAJ&hl=en"
-  follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
     - type: linkedin
       name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
     - type: github
       name: GitHub
       link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+ 
 
 # Build settings
 markdown: kramdown
