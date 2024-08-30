@@ -18,7 +18,7 @@ profile_picture:
 </p>
 
 <p>
-  M.S in Computer Science, Texas Tech University, 2018
+  M.S in Mathematics, Texas Tech University, 2018
 </p>
 
 <p>
