@@ -3,7 +3,6 @@ layout: publications
 title: Publications
 slug: /publications
 items:
-  - title: Parametric holomorphy of elliptic eigenvalue problems (Submitted)
   - title: Semilinear elliptic eigenvalue problem: Parametric analyticity and the uncertainty quantification
     image:
       src: /assets/img/work/sand.png
