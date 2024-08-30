@@ -20,6 +20,6 @@ items:
     description: 2017_Fall, 2018_Spring
 ---
 
-This page lists my teaching experiences.
+This page lists my teaching experiences as a main Instructor.
 <br />
 <br />
