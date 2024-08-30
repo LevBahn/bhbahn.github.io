@@ -3,7 +3,7 @@ layout: publications
 title: Publications
 slug: /publications
 items:
- - title: My Interest 1
+  - title: My Interest 1
     image:
       src: /assets/img/work/water.png
       alt: water
