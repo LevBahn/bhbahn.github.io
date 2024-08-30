@@ -22,7 +22,7 @@ footer:
     - type: email
       name: Email
       value: bban@umass.edu
-    - type: Google Scholar
+    - type: gs
       value: Google Scholar
       link: "https://scholar.google.com/citations?user=2p8u25UAAAAJ&hl=en"
   follow:
