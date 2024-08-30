@@ -3,11 +3,21 @@ layout: teaching
 title: Teaching
 slug: /teaching
 items:
-  - title: My Interest 1
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+  - title: MATH 131_Calculus 1
+    description: 2024_Fall
+
+  - title: MATH 315_Statistics 1
+    description: 2024_Fall
+
+  - title: MATH 233_Multivariate Calculus
+    description: 2024_Spring
+    
+  - title: MATH 331_Ordinary Differential Equations
     image:
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: 2023_Fall
+
+  - title: College Algebra at Texas Tech University
+    description: 2017_Fall, 2018_Spring
 ---
 
 This page lists my teaching experiences.
