@@ -10,11 +10,15 @@ profile_picture:
 </p>
 
 <p>
-  Ph.D in Mathematics, expected 2025
+  Ph.D in Mathematics, University of Massachusetts Amherst, 2025(expected)
 </p>
 
 <p>
-  M.S in Computer Science, expected 2025
+  M.S in Computer Science, University of Massachusetts Amherst, 2025(expected)
+</p>
+
+<p>
+  M.S in Computer Science, Texas Tech University, 2018
 </p>
 
 <p>
