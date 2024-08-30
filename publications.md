@@ -3,7 +3,7 @@ layout: publications
 title: Publications
 slug: /publications
 items:
-  - title: My Interest 1
+  - title: Parametric holomorphy of elliptic eigenvalue problems
     image:
       src: /assets/img/work/water.png
       alt: water
