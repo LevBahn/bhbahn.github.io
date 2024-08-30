@@ -20,7 +20,7 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: Email : bban@umass.edu
+      name: Email (bban@umass.edu)
       value: bban@umass.edu
     - type: goos
       value: Google Scholar
