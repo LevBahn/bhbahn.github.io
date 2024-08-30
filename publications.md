@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: This paper provides the framework for showing special type of holomorphy which guarantees using various numerical methods to solve PDE problems. It is currently submitted and waiting for revision.  
+    description: 
   - title: Semilinear elliptic eigenvalue problem: Parametric analyticity and the uncertainty quantification
     image:
       src: /assets/img/work/sand.png
